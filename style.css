@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(44, 46, 53);
+}
+
+.header {
+    height: 70px;
+    background-color: #ff1141;
+    font-family: "Kanit";
+    
+}
+
+h1 {
+    color: azure;
+    font-family: "Kanit";
+}
+
+.btn {
+    color: white;
+    font-size: 14px;
+    font-family: "Kanit";
+    text-decoration: none;
+    margin: 10px 10px;
+    border: 2px solid #ff3f42;
+    padding: 14px 60px;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: 1s;
+    background-color: transparent;
+    
+}
+
+.btn:hover {
+    background-color: #ff3f42;
+    transition: 1s;
+}
+
+p {
+    color: azure;
+    font-size: 40px;
+    font-family: "Kanit";
+}
+
+h2 {
+    color: azure;
+    font-size: 20px;
+    font-family: "Kanit";
+}
